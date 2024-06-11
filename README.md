@@ -1,2 +1,2 @@
 # expert-guide
-HTML,CSS,JavaScript,Bootstrap,TypeScript
+I developed this Todo list using Angular,TypeScript and Bootstrap.
